@@ -12,7 +12,7 @@ Este proyecto contiene dos implementaciones para enseñar fundamentos de Introdu
 ## 📂 Estructura del proyecto
 
 ```
-EJ-IIA-1/
+_Proyecto-Calculadora/
 ├── README.md                    # Este archivo (resumen general)
 ├── Calculadora-CLI/             # Versión consola
 │   ├── README.md                # Instrucciones específicas de la CLI
