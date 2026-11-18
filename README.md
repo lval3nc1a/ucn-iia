@@ -8,12 +8,11 @@ El objetivo de este repositorio es evidenciar el desarrollo práctico de los con
 
 ---
 
-## 📋 Tabla de Contenidos
+## 📋 Tabla de Contenido
 
 1. Descripción General
 2. Estructura del Repositorio
-3. Proyectos Destacados
-4. Licencia y Uso
+3. Licencia y Uso
 
 ---
 
