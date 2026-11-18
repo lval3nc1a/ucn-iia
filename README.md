@@ -1,13 +1,10 @@
 # Universidad Católica del Norte
 ## Introducción a la Inteligencia Artificial
-
-### Para HTML
 <div align="center">
   <p>
     <strong>
       <a href="https://github.com/lval3nc1a/ucn-iia">UCN IIA</a>
     </strong>
-    <br>
     © 2026
     <a href="https://github.com/lval3nc1a">Luis Valencia</a>
   </p>
@@ -47,6 +44,13 @@
   </p>
 </div>
 
+**You are free to:**
+- **Share** — Copy and redistribute the material in any medium or format.
+- **Adapt** — Remix, transform, and build upon the material.
 
-### Para Markup Down
-This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+**Under the following terms:**
+- **Attribution (BY):** Give appropriate credit and provide a link to the license.
+- **NonCommercial (NC):** Do not use the material for commercial purposes.
+- **ShareAlike (SA):** Distribute adaptations under the same license.
+
+[View the full license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
