@@ -65,7 +65,7 @@ A continuación, se detalla la organización técnica de los directorios y archi
       <a href="https://github.com/lval3nc1a/ucn-iia">UCN IIA</a>
     </strong>
     © 2026
-    <a href="https://github.com/lval3nc1a">Luis Valencia</a>
+    <a href="https://github.com/lval3nc1a/My-Profile">Luis Valencia</a>
   </p>
   <p>
     This project is licensed under the
