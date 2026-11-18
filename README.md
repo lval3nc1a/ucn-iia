@@ -1,5 +1,5 @@
-# Universidad Católica del Norte
-## Introducción a la Inteligencia Artificial
+### Universidad Católica del Norte
+#### Introducción a la Inteligencia Artificial
 <div align="center">
   <p>
     <strong>
