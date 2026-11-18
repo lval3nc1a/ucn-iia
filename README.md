@@ -1,6 +1,6 @@
 ### Universidad Católica del Norte
 #### Introducción a la Inteligencia Artificial
-<div align="center">
+<div align="left">
   <p>
     <strong>
       <a href="https://github.com/lval3nc1a/ucn-iia">UCN IIA</a>
