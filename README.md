@@ -10,10 +10,10 @@ El objetivo de este repositorio es evidenciar el desarrollo práctico de los con
 
 ## 📋 Tabla de Contenidos
 
-1. [Descripción General](https://www.google.com/search?q=%23descripci%C3%B3n-general)
-2. [Estructura del Repositorio](https://github.com/lval3nc1a/ucn-iia/edit/main/README.md#-estructura-del-repositorio)
-3. [Proyectos Destacados](https://www.google.com/search?q=%23proyectos-destacados)
-4. [Licencia y Uso](https://www.google.com/search?q=%23licencia-y-uso)
+1. Descripción General
+2. Estructura del Repositorio
+3. Proyectos Destacados
+4. Licencia y Uso
 
 ---
 
